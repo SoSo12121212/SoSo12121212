@@ -1,4 +1,4 @@
-## Hi there 👋
+## 금융 꿈나무로 성장하고 있는 개발자 😀
 
 <!--
 **SoSo12121212/SoSo12121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SoSo12121212&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SoSo12121212"
+  width="600"
+  height="300"
+/>
+</a>
